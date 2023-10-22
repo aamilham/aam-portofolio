@@ -1,13 +1,21 @@
 ---
 import { IHeroProps } from "@types";
-
+import profileaam from "../../img/profileaam.png"
 const { name, about } = Astro.props as IHeroProps;
 ---
 
 <section>
-  <p class="dark:text-light mt-[117px]">Hey, I’m</p>
-  <h1>{name}</h1>
-  <p class="dark:text-light text-lg mb-16">
-    {about}
-  </p>
+  <!-- <img src={profileaam} alt="profileimg" class="container flex items-center mt-[50px]" style="border-radius: 50%; width: 200px"> -->
+  <div class="containerHero container flex flex-wrap sm:flex-nowrap items-center justify-between">
+    <div class="leftHero">
+      <p class="dark:text-light mt-[50px]">Hey, I’m</p>
+      <h1>{name}</h1>
+      <p class="dark:text-light text-lg mb-16">
+        {about}
+      </p>
+    </div>
+    <div class="rightHero">
+      <img src={profileaam} alt="profileimg" class="container flex items-center w-2/3 sm:w-full" style="border-radius:50%;">
+    </div>
+  </div>
 </section>

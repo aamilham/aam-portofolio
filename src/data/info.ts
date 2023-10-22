@@ -2,7 +2,7 @@ export const info = {
   baseUrl: "https://astro-portfolio-uzair.vercel.app",
   name: "Rahmad Ilham Sani",
   jobDescription: "Junior Web Developer",
-  about: `Hello everyone, I'm Rahmad Ilham Sani, IPB University Second Year Computer Science students. Currently I'm learning Coding and Design. I have a strong interest in Information & Technology, especially Front-end Developer and Graphic Designer.
+  about: `Hello everyone, I'm Rahmad Ilham Sani, IPB University Third Year Computer Science students. Currently I'm learning Coding and Design. I have a strong interest in Information & Technology, especially Front-end Developer and Graphic Designer.
   `,
 
   experience: [
