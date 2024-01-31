@@ -1,45 +1,43 @@
 export const info = {
-  baseUrl: "https://astro-portfolio-uzair.vercel.app",
+  baseUrl: "https://aamilham-portfolio.netlify.app/",
   name: "Rahmad Ilham Sani",
   jobDescription: "Junior Web Developer",
-  about: `Hello everyone, I'm Rahmad Ilham Sani, IPB University Third Year Computer Science students. Currently I'm learning Coding and Design. I have a strong interest in Information & Technology, especially Front-end Developer and Graphic Designer.
+  about: `Hello everyone, I'm Rahmad Ilham Sani, IPB University Third Year Computer Science students. Currently I'm learning Coding and Design. I have a strong interest in Information & Technology, especially Front-end Developer, Graphic Designer, and Cloud Computing.
   `,
 
   experience: [
     {
-      name: "InterNative Labs, LLC",
-      location: "Karāchi, Sindh, Pakistan",
-      startDate: "Apr 2022",
+      name: "CodePanda",
+      location: "Dramaga, Bogor, Indonesia",
+      startDate: "Nov 2023",
       endDate: "Present",
       description: [
-        "- Developing screens and UI components for the web application using React and Tailwind.",
-        "- Fixing UI issues and integrating backend APIs with Redux Saga.",
+        "- Make your website come true with CodePanda",
+        "- Work in Frontend Developer Team",
       ],
+      linkweb: "https://www.codepanda.id/"
     },
 
     {
-      name: "Coupon Approve (Remote)",
-      location: "Amsterdam, North Holland, Netherlands",
-      startDate: "Nov 2020",
-      endDate: "Apr 2022",
+      name: "Ilkomunity",
+      location: "Dramaga, Bogor, Indonesia",
+      startDate: "June 2023",
+      endDate: "Okt 2023",
       description: [
-        "✓ Developing code in accordance with appropriate design and architectural rules",
-        "✓ Documenting, testing, deployment, maintenance, support of platforms, applications, databases and solutions",
-        "✓ Help and training of other colleagues",
-        "✓ Others tasks connected to the nature of the job",
-        "✓ Code Improvements and Refactoring ",
-        "✓ Best Practices and Rules Maintainer",
+        "- Ilkomunity is a branding for each community in the Department of Computer Science, IPB University. ",
+        "- Work in Frontend Developer Team",
       ],
+      linkweb: "https://ilkomunity.github.io/",
     },
 
     {
-      name: "Interns Pakistan",
-      location: "Pakistan",
-      startDate: "Oct 2020",
-      endDate: "Nov 2020",
+      name: "IPB Web Development Community (IWDC)",
+      location: "Dramaga, Bogor, Indonesia",
+      startDate: "Nov 2022",
+      endDate: "Nov 2023",
       description: [
-        "An Immersive Internship Program that prepares me for the world's most in-demand career. A six weeks program completely based on learning and challenges.",
-        "The internship track is built by an industry expert that let develop the skills in the areas most important ",
+        "- Community leader for IWDC 23",
+        "- IWDC is a community for IPB University students who are interested in Web Development",
       ],
     },
   ],
@@ -78,18 +76,18 @@ export const info = {
       liveUrl: "https://aamilham.github.io/Rahmad-Ilham-Sani-Web-Movies",
     },
     {
-      title: "IWDC Vacation Web Projects",
+      title: "Ilkomunity Web",
       isFeatured: true,
+      thumbnail: "/assets/images/Ilkomunity-Project.png",
+      githubUrl: "https://github.com/Ilkomunity/ilkomunity.github.io",
+      liveUrl: "https://ilkomunity.github.io/",
+    },
+    {
+      title: "IWDC Vacation Web Projects",
+      isFeatured: false,
       thumbnail: "/assets/images/Iwdc-Web-Aam.png",
       githubUrl: "https://github.com/aamilham/rahmad-ilham-sani-iwdc",
       liveUrl: "https://aamilham.github.io/rahmad-ilham-sani-iwdc",
-    },
-    {
-      title: "Basis Data Projects Web",
-      isFeatured: true,
-      thumbnail: "/assets/images/GetNom-Project-Basdat.png",
-      githubUrl: "https://github.com/aamilham/ProjectBasdat",
-      liveUrl: "https://github.com/aamilham/ProjectBasdat",
     },
     {
       title: "Rekayasa Perangkat Lunak Projects Web",
@@ -97,6 +95,13 @@ export const info = {
       thumbnail: "/assets/images/KontrakanID-Project-RPL.png",
       githubUrl: "https://github.com/aamilham/KontrakanID",
       liveUrl: "https://github.com/aamilham/KontrakanID",
+    },
+    {
+      title: "Basis Data Projects Web",
+      isFeatured: true,
+      thumbnail: "/assets/images/GetNom-Project-Basdat.png",
+      githubUrl: "https://github.com/aamilham/ProjectBasdat",
+      liveUrl: "https://github.com/aamilham/ProjectBasdat",
     },
   ],
 };

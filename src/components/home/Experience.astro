@@ -24,6 +24,9 @@ const { title, details } = Astro.props as IExperiences;
               <li class="dark:text-gray">{item}</li>
             ))}
           </ul>
+          {item.linkweb && (
+            <h5 class="dark:text-gray font-inter">- Access Here : <a href={item.linkweb} class="text-m text-blue">{item.linkweb}</a></h5>
+          )}
         </div>
       ))
     }
