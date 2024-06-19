@@ -1,21 +1,33 @@
 export const info = {
   baseUrl: "https://aamilham-portfolio.netlify.app/",
   name: "Rahmad Ilham Sani",
-  jobDescription: "Junior Web Developer",
-  about: `Hello everyone, I'm Rahmad Ilham Sani, IPB University Third Year Computer Science students. Currently I'm learning Coding and Design. I have a strong interest in Information & Technology, especially Front-end Developer, Graphic Designer, and Cloud Computing.
+  jobDescription: "Junior Web & System Engineer",
+  about: `Hello everyone, I'm Rahmad Ilham Sani, IPB University Third Year Computer Science students. Currently I'm learning Coding and System Infrastructure. I have a strong interest in Information & Technology, especially Front-end Developer, Graphic Designer, and Cloud Computing.
   `,
 
   experience: [
     {
       name: "CodePanda",
       location: "Dramaga, Bogor, Indonesia",
-      startDate: "Nov 2023",
+      startDate: "Jan 2024",
       endDate: "Present",
       description: [
         "- Make your website come true with CodePanda",
         "- Work in Frontend Developer Team",
       ],
       linkweb: "https://www.codepanda.id/"
+    },
+
+    {
+      name: "Bangkit Academy",
+      location: "Online",
+      startDate: "Feb 2023",
+      endDate: "Present",
+      description: [
+        "- Designed to prepare students with in-demand skills and tech certifications",
+        "- Be as Cloud Computing Cohort",
+      ],
+      linkweb: "https://grow.google/intl/id_id/bangkit"
     },
 
     {
@@ -64,7 +76,7 @@ export const info = {
   socialMedia: {
     github: "https://github.com/aamilham",
     email: "aamilham13@gmail.com",
-    linkedin: "https://www.linkedin.com/in/rahmad-ilham-sani-433247233/",
+    linkedin: "https://www.linkedin.com/in/rahmad-ilham-sani/",
   },
 
   projects: [
