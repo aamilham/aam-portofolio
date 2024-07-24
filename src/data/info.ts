@@ -19,15 +19,15 @@ export const info = {
     },
 
     {
-      name: "Bangkit Academy",
+      name: "Acnetify - Bangkit Academy Capstone",
       location: "Online",
-      startDate: "Feb 2023",
-      endDate: "Present",
+      startDate: "May 2024",
+      endDate: "Jul 2024",
       description: [
-        "- Designed to prepare students with in-demand skills and tech certifications",
-        "- Be as Cloud Computing Cohort",
+        "- Application designed to identify acne and recommend treatment, with a feature for users to discuss their conditions and treatment globally",
+        "- Led the setup of the cloud environment for API, Database, and Machine Learning models",
       ],
-      linkweb: "https://grow.google/intl/id_id/bangkit"
+      linkweb: "https://github.com/orgs/Acnetify/repositories"
     },
 
     {
@@ -61,7 +61,17 @@ export const info = {
       startDate: "2021",
       endDate: "Now",
       description: [
-        "Third Year Computer Science Student at IPB University",
+        "Third Year Computer Science Student at IPB University | GPA 3.66",
+      ],
+    },
+    {
+      name: "Bangkit Academy",
+      location: "Online",
+      startDate: "Feb 2024",
+      endDate: "Jul 2024",
+      description: [
+        "Designed to prepare students with in-demand skills and tech certifications",
+        "Be as Cloud Computing Cohort",
       ],
     },
     {
@@ -95,6 +105,13 @@ export const info = {
       liveUrl: "https://ilkomunity.github.io/",
     },
     {
+      title: "Acnetify",
+      isFeatured: true,
+      thumbnail: "/assets/images/AcnetifyApp-Capstone.png",
+      githubUrl: "https://github.com/orgs/Acnetify/repositories",
+      liveUrl: "https://github.com/orgs/Acnetify/repositories",
+    },
+    {
       title: "IWDC Vacation Web Projects",
       isFeatured: false,
       thumbnail: "/assets/images/Iwdc-Web-Aam.png",
@@ -110,7 +127,7 @@ export const info = {
     },
     {
       title: "Basis Data Projects Web",
-      isFeatured: true,
+      isFeatured: false,
       thumbnail: "/assets/images/GetNom-Project-Basdat.png",
       githubUrl: "https://github.com/aamilham/ProjectBasdat",
       liveUrl: "https://github.com/aamilham/ProjectBasdat",
