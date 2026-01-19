@@ -11,6 +11,7 @@ export interface IHeroProps {
 
 export interface IExperience {
   name: string;
+  role: string;
   location: string;
   startDate: string;
   endDate: string;
