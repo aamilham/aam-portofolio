@@ -20,9 +20,9 @@ const { title, details } = Astro.props as IExperiences;
             </p>
           </div>
           <div class="flex gap-3 items-center mt-2">
-            {item.role && <p class="text-sm font-medium text-gray-700 dark:text-light">{item.role}</p>}
+            {item.role && <p class="text-sm font-bold text-gray-700 dark:text-light">{item.role}</p>}
             {item.role && item.location && <span class="text-gray-400">•</span>}
-            <p class="text-sm text-blue">{item.location}</p>
+            <p class="text-sm font-normal text-indigo-800 dark:text-blue">{item.location}</p>
           </div>
           <ul class="mt-3">
             {item.description.map((item) => (
@@ -30,7 +30,7 @@ const { title, details } = Astro.props as IExperiences;
             ))}
           </ul>
           {item.linkweb && (
-            <h5 class="dark:text-gray font-inter">- Access Here : <a href={item.linkweb} class="text-m text-blue">{item.linkweb}</a></h5>
+            <h5 class="dark:text-gray font-inter">- <a href={item.linkweb} class="text-m text-indigo-800 dark:text-blue">{item.linkweb}</a></h5>
           )}
         </div>
       ))

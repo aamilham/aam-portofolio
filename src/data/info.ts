@@ -13,8 +13,8 @@ export const info = {
       startDate: "Mar 2025",
       endDate: "Present",
       description: [
-        "- Back End Developer",
-        "- Work to do API Development in Internal Vaulting Management System and Product Stock Digital System",
+        "- Engineered robust RESTful APIs for the Internal Vaulting Management System to ensure secure transaction handling.",
+        "- Optimized data flow and inventory tracking for the Product Stock Digital System.",
       ],
       linkweb: "https://www.linkedin.com/company/pt-bullion-ecosystem-international"
     },
@@ -26,7 +26,8 @@ export const info = {
       startDate: "Jan 2024",
       endDate: "Mar 2025",
       description: [
-        "- Make your website come true with CodePanda",
+        "- Make your software come true with CodePanda",
+        "- Collaborated with cross-functional teams to deliver custom web solutions that enhanced client brand visibility."
       ],
       linkweb: "https://www.codepanda.id/"
     },
@@ -38,8 +39,8 @@ export const info = {
       startDate: "May 2024",
       endDate: "Jul 2024",
       description: [
-        "- Application designed to identify acne and recommend treatment, with a feature for users to discuss their conditions and treatment globally",
-        "- Led the setup of the cloud environment for API, Database, and Machine Learning models",
+        "- Architected and deployed the cloud infrastructure for a skin condition analysis application.",
+        "- Integrated Machine Learning models with backend APIs and managed database scalability using cloud services.",
       ],
       linkweb: "https://github.com/orgs/Acnetify/repositories"
     },
@@ -51,7 +52,8 @@ export const info = {
       startDate: "June 2023",
       endDate: "Okt 2023",
       description: [
-        "- Ilkomunity is a branding for each community in the Department of Computer Science, IPB University. ",
+        "- Developed the central digital platform unifying various communities within the IPB Computer Science Department.",
+        "- Implemented responsive UI designs to ensure accessibility across student devices.",
       ],
       linkweb: "https://ilkomunity.github.io/",
     },
@@ -65,7 +67,8 @@ export const info = {
       startDate: "2021",
       endDate: "2025",
       description: [
-        "Bachelor of Computer Science | GPA 3.71",
+        "- Bachelor of Computer Science | GPA 3.71",
+        "- Relevant Coursework: Software Engineering, Cloud System, Lead and Teamwork."
       ],
     },
 
@@ -76,8 +79,8 @@ export const info = {
       startDate: "Feb 2024",
       endDate: "Jul 2024",
       description: [
-        "Designed to prepare students with in-demand skills and tech certifications",
-        "Be as Cloud Computing Cohort",
+        "- Selected for a rigorous Google-led career readiness program focused on Cloud Computing.",
+        "- Gained hands-on proficiency in Google Cloud Platform (GCP) and infrastructure management.",
       ],
     },
 
@@ -87,7 +90,10 @@ export const info = {
       location: "Bukittinggi, West Sumatera",
       startDate: "2018",
       endDate: "2021",
-      description: ["HighSchool"],
+      description: [
+        "- My interest in IT journey started here.",
+        "- Join the Extracurricular of Computer and Network Engineering.",
+      ],
     },
   ],
 
@@ -100,7 +106,7 @@ export const info = {
       endDate: "Mar 2025",
       description: [
         "- Make your website come true with CodePanda",
-        "- Work in Frontend Developer Team",
+        "- Contributed to the Frontend Development division, focusing on component reusability and clean code practices.",
       ],
       linkweb: "https://www.codepanda.id/"
     },
@@ -112,7 +118,7 @@ export const info = {
       endDate: "Okt 2023",
       description: [
         "- Ilkomunity is a branding for each community in the Department of Computer Science, IPB University. ",
-        "- Work in Frontend Developer Team",
+        "- Served as a key member of the frontend team, maintaining the digital presence of department communities.",
       ],
       linkweb: "https://ilkomunity.github.io/",
     },
@@ -123,8 +129,8 @@ export const info = {
       startDate: "Nov 2022",
       endDate: "Nov 2023",
       description: [
-        "- Community leader for IWDC 23",
-        "- IWDC is a community for IPB University students who are interested in Web Development",
+        "- Led a community of students passionate about web technologies, fostering a collaborative learning environment.",
+        "- Organized workshops and events to enhance members' technical skills and industry readiness.",
       ],
     },
   ],
