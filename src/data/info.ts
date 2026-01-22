@@ -2,58 +2,71 @@ export const info = {
   baseUrl: "https://aamilham-portfolio.netlify.app/",
   name: "Rahmad Ilham Sani",
   jobDescription: "Junior Web & System Engineer",
-  about: `Hello everyone, I'm Rahmad Ilham Sani, Bachelor of Computer Science in IPB University with 3.71 GPA. Currently I'm Working as Back End Developer. I have a strong interest in Information & Technology, especially Software Engineer, System Structure, and Devops.
+  about: `Hello everyone, I'm Rahmad Ilham Sani, Bachelor of Computer Science in IPB University Cumlaude with 3.71 GPA. Currently I'm Working as Back End Developer. I have a strong interest in Information & Technology, especially Software Engineer, System Structure, and Devops.
   `,
 
   experience: [
     {
       name: "Bullion Ecosystem International",
-      role: "Back End Developer",
+      role: "Back End Developer | Fulltime",
       location: "Bogor, Indonesia",
       startDate: "Mar 2025",
       endDate: "Present",
       description: [
-        "- Engineered robust RESTful APIs for the Internal Vaulting Management System to ensure secure transaction handling.",
-        "- Optimized data flow and inventory tracking for the Product Stock Digital System.",
+        "Engineered robust RESTful APIs for the Internal Vaulting Management System to ensure secure transaction handling.",
+        "Optimized data flow and inventory tracking for the Product Stock Digital System.",
       ],
       linkweb: "https://www.linkedin.com/company/pt-bullion-ecosystem-international"
     },
 
     {
+      name: "Tropical Biopharmaca Research Center (TropBRC)",
+      role: "Backend Developer / System Engineer | Internship",
+      location: "Bogor, Indonesia",
+      startDate: "Oct 2024",
+      endDate: "Dec 2024",
+      description: [
+        "Refactor and maintained backend and server for TropBRC's Ijah Analytic Services",
+        "Ensured team alignment with project requirements through development cycle.",
+      ],
+      linkweb: "https://biofarmaka.ipb.ac.id/"
+    },
+
+    {
       name: "CodePanda",
-      role: "Frontend Developer",
-      location: "Dramaga, Bogor, Indonesia",
+      role: "Frontend Developer | Freelance",
+      location: "Bogor, Indonesia",
       startDate: "Jan 2024",
       endDate: "Mar 2025",
       description: [
-        "- Make your software come true with CodePanda",
-        "- Collaborated with cross-functional teams to deliver custom web solutions that enhanced client brand visibility."
+        "Make your software come true with CodePanda",
+        "Collaborated with cross-functional teams to deliver custom web solutions that enhanced client brand visibility."
       ],
       linkweb: "https://www.codepanda.id/"
     },
 
     {
       name: "Acnetify - Bangkit Academy Capstone",
-      role: "Cloud Computing Cohort",
+      role: "Cloud Computing | Cohort",
       location: "Online",
       startDate: "May 2024",
       endDate: "Jul 2024",
       description: [
-        "- Architected and deployed the cloud infrastructure for a skin condition analysis application.",
-        "- Integrated Machine Learning models with backend APIs and managed database scalability using cloud services.",
+        "Architected and deployed the cloud infrastructure for a skin condition analysis application.",
+        "Integrated Machine Learning models with backend APIs and managed database scalability using cloud services.",
       ],
       linkweb: "https://github.com/orgs/Acnetify/repositories"
     },
 
     {
       name: "Ilkomunity",
-      role: "Frontend Developer",
-      location: "Dramaga, Bogor, Indonesia",
+      role: "Frontend Developer | Freelance",
+      location: "Bogor, Indonesia",
       startDate: "June 2023",
       endDate: "Okt 2023",
       description: [
-        "- Developed the central digital platform unifying various communities within the IPB Computer Science Department.",
-        "- Implemented responsive UI designs to ensure accessibility across student devices.",
+        "Developed the central digital platform unifying various communities within the IPB Computer Science Department.",
+        "Implemented responsive UI designs to ensure accessibility across student devices.",
       ],
       linkweb: "https://ilkomunity.github.io/",
     },
@@ -67,8 +80,8 @@ export const info = {
       startDate: "2021",
       endDate: "2025",
       description: [
-        "- Bachelor of Computer Science | GPA 3.71",
-        "- Relevant Coursework: Software Engineering, Cloud System, Lead and Teamwork."
+        "Bachelor of Computer Science | Cumlaude | GPA 3.71",
+        "Relevant Coursework: Software Engineering, Cloud System, Lead and Teamwork."
       ],
     },
 
@@ -79,8 +92,8 @@ export const info = {
       startDate: "Feb 2024",
       endDate: "Jul 2024",
       description: [
-        "- Selected for a rigorous Google-led career readiness program focused on Cloud Computing.",
-        "- Gained hands-on proficiency in Google Cloud Platform (GCP) and infrastructure management.",
+        "Selected for a rigorous Google-led career readiness program focused on Cloud Computing.",
+        "Gained hands-on proficiency in Google Cloud Platform (GCP) and infrastructure management.",
       ],
     },
 
@@ -91,8 +104,8 @@ export const info = {
       startDate: "2018",
       endDate: "2021",
       description: [
-        "- My interest in IT journey started here.",
-        "- Join the Extracurricular of Computer and Network Engineering.",
+        "My interest in IT journey started here.",
+        "Join the Extracurricular of Computer and Network Engineering.",
       ],
     },
   ],
@@ -105,8 +118,8 @@ export const info = {
       startDate: "Jan 2024",
       endDate: "Mar 2025",
       description: [
-        "- Make your website come true with CodePanda",
-        "- Contributed to the Frontend Development division, focusing on component reusability and clean code practices.",
+        "Make your website come true with CodePanda",
+        "Contributed to the Frontend Development division, focusing on component reusability and clean code practices.",
       ],
       linkweb: "https://www.codepanda.id/"
     },
@@ -117,8 +130,8 @@ export const info = {
       startDate: "June 2023",
       endDate: "Okt 2023",
       description: [
-        "- Ilkomunity is a branding for each community in the Department of Computer Science, IPB University. ",
-        "- Served as a key member of the frontend team, maintaining the digital presence of department communities.",
+        "Ilkomunity is a branding for each community in the Department of Computer Science, IPB University. ",
+        "Served as a key member of the frontend team, maintaining the digital presence of department communities.",
       ],
       linkweb: "https://ilkomunity.github.io/",
     },
@@ -129,8 +142,8 @@ export const info = {
       startDate: "Nov 2022",
       endDate: "Nov 2023",
       description: [
-        "- Led a community of students passionate about web technologies, fostering a collaborative learning environment.",
-        "- Organized workshops and events to enhance members' technical skills and industry readiness.",
+        "Led a community of students passionate about web technologies, fostering a collaborative learning environment.",
+        "Organized workshops and events to enhance members' technical skills and industry readiness.",
       ],
     },
   ],
